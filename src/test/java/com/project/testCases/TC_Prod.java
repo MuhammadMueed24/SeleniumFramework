@@ -31,7 +31,6 @@ public class TC_Prod extends Base {
 		po.AddToCartBtn().click();
 
 		hp.scrollToTop(driver);
-		Thread.sleep(1500);
 	}
 
 	@Test
